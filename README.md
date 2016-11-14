@@ -1,0 +1,2 @@
+# labso
+Systemy Operacyjne - Laboratorium
